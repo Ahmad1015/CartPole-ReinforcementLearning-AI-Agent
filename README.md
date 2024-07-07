@@ -8,7 +8,7 @@ This repository contains the implementation of a Deep Q-Network (DQN) to solve t
 - [Usage](#usage)
 - [Results](#results)
 - [Video Output](#video-output)
-- [License](#license)
+
 
 ## Introduction
 The goal of this project is to train an AI agent to balance a pole on a cart using a Deep Q-Network. The agent interacts with the environment and improves its policy based on the rewards received.
