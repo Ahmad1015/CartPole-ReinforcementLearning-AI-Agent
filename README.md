@@ -24,9 +24,9 @@ pip install gymnasium[classic-control]
 ```
 ## Usage
 To train the AI agent, execute the provided Jupyter Notebook or open the Google Colab Link. 
-```bash
-https://colab.research.google.com/drive/1lMHeGpbkvqeH_jXsNcwy98VTidNl1At2
-```
+
+[Google Colab Link](https://colab.research.google.com/drive/1lMHeGpbkvqeH_jXsNcwy98VTidNl1At2)
+
 The notebook will walk you through the following steps:
 * Importing the necessary libraries.
 * Defining the neural network architecture.
